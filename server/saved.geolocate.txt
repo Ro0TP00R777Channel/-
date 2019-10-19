@@ -1,0 +1,48 @@
+Latitude: 5.499068781341161
+Longitude: 95.37569613958857
+User-Agent: Mozilla/5.0 (Linux; Android 7.1.2; Redmi 5A Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36
+Altitude: 69.08504486083984
+Accuracy: 12.380291938781738
+Speed: 0.2977920174598694
+Heading: null
+Platform: Linux armv8l
+Cores: 4
+Memory: undefined
+Screen Height: 640
+Screen Width: 360
+Latitude: 5.4953246
+Longitude: 95.3823634
+User-Agent: Mozilla/5.0 (Linux; Android 7.1.2; Redmi 5A Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36
+Altitude: null
+Accuracy: 16
+Speed: 0
+Heading: 90
+Platform: Linux armv8l
+Cores: 4
+Memory: undefined
+Screen Height: 640
+Screen Width: 360
+Latitude: 5.4953246
+Longitude: 95.3823634
+User-Agent: Mozilla/5.0 (Linux; Android 7.1.2; Redmi 5A Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36
+Altitude: null
+Accuracy: 16
+Speed: 0
+Heading: 90
+Platform: Linux armv8l
+Cores: 4
+Memory: undefined
+Screen Height: 640
+Screen Width: 360
+Latitude: 5.4953246
+Longitude: 95.3823634
+User-Agent: Mozilla/5.0 (Linux; Android 7.1.2; Redmi 5A Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36
+Altitude: null
+Accuracy: 16
+Speed: null
+Heading: null
+Platform: Linux armv8l
+Cores: 4
+Memory: undefined
+Screen Height: 640
+Screen Width: 360
